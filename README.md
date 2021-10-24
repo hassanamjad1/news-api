@@ -3,9 +3,10 @@
 
 
 ## Table of Contents
-1. [Purpose](#Purpose) 👩‍🏫
-2. [Technologies](#Technologies) 🎨
-3. [Getting Started with Create React App](#Getting_Started_with_Create_React_App) 💻
+1. [Purpose](#Purpose)
+2. [Technologies](#Technologies)
+3. [Video Walkthrough](#Video_Walkthrough)
+4. [Getting Started with Create React App](#Getting_Started_with_Create_React_App)
 
 
 
@@ -20,6 +21,9 @@ The purpose of our project is to show the up-to-date news around the globe with 
   - [News API](#https://newsapi.org/)
   - [React-Bootstrap](#https://react-bootstrap.github.io/)
   - MaterializeCSS
+
+### Video_Walkthrough
+<img src='https://media.giphy.com/media/gH4i3vUJ8yQEtjDzKP/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 

@@ -1,4 +1,29 @@
-# Getting Started with Create React App
+## News API
+
+
+
+## Table of Contents
+1. [Purpose](#Purpose) 👩‍🏫
+2. [Technologies](#Technologies) 🎨
+3. [Getting Started with Create React App](#Getting Started with Create React App) 💻
+
+
+
+## Overview
+
+### Purpose
+The purpose of our project is to show the up-to-date news around the globe with the option to select country and category from drop-down menu. The app makes RESTful API calls to News API within JSON format by sending Https requests .
+
+### Technologies
+  - ReactJS
+  - Postman
+  - [News API](#)
+  - React-Bootstrap
+  - MaterializeCSS
+
+
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

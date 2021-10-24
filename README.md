@@ -23,7 +23,7 @@ The purpose of our project is to show the up-to-date news around the globe with 
   - MaterializeCSS
 
 ### Video_Walkthrough
-<img src='https://media.giphy.com/media/gH4i3vUJ8yQEtjDzKP/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/AbvSWMVhUvc2tw5ktQ/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 

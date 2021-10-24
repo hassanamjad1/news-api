@@ -13,7 +13,7 @@
 ## Overview
 
 ### Purpose
-The purpose of our project is to show the up-to-date news around the globe with the option to select country and category from drop-down menu. The app makes RESTful API calls to News API within JSON format by sending Https requests .
+The purpose of this project is to show the up-to-date news around the globe with the option to select country and category from drop-down menu. The app makes RESTful API calls to News API within JSON format by sending Https requests .
 
 ### Technologies
   - ReactJS

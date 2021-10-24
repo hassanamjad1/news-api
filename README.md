@@ -5,7 +5,7 @@
 ## Table of Contents
 1. [Purpose](#Purpose) 👩‍🏫
 2. [Technologies](#Technologies) 🎨
-3. [Getting Started with Create React App](#Getting Started with Create React App) 💻
+3. [Getting Started with Create React App](#Getting_Started_with_Create_React_App) 💻
 
 
 
@@ -17,13 +17,13 @@ The purpose of our project is to show the up-to-date news around the globe with 
 ### Technologies
   - ReactJS
   - Postman
-  - [News API](#)
-  - React-Bootstrap
+  - [News API](#https://newsapi.org/)
+  - [React-Bootstrap](#https://react-bootstrap.github.io/)
   - MaterializeCSS
 
 
 
-### Getting Started with Create React App
+### Getting_Started_with_Create_React_App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

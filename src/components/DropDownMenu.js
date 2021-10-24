@@ -41,6 +41,9 @@ class DropDownMenu extends Component{
                 <Dropdown.Item eventKey="us">USA</Dropdown.Item>
                 <Dropdown.Item eventKey="ca">Canada</Dropdown.Item>
                 <Dropdown.Item eventKey="in">India</Dropdown.Item>
+                <Dropdown.Item eventKey="au">Australia</Dropdown.Item>
+                <Dropdown.Item eventKey="sa">South Africa</Dropdown.Item>
+                <Dropdown.Item eventKey="eg">Egypt</Dropdown.Item>
            
             </DropdownButton>
             <DropdownButton
@@ -51,8 +54,11 @@ class DropDownMenu extends Component{
                 
             >
                 <Dropdown.Item eventKey="technology">Technology</Dropdown.Item>
+                <Dropdown.Item eventKey="general">General</Dropdown.Item>
                 <Dropdown.Item eventKey="business">Business</Dropdown.Item>
                 <Dropdown.Item eventKey="politics">Politics</Dropdown.Item>
+                <Dropdown.Item eventKey="health">Health</Dropdown.Item>
+                <Dropdown.Item eventKey="sports">Sports</Dropdown.Item>
          
             </DropdownButton>
       
